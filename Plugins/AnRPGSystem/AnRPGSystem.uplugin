@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.01",
+	"FriendlyName": "AnRPGSystem",
+	"Description": "A D&D Inspired RPG System",
+	"Category": "Other",
+	"CreatedBy": "Charlie O'Regan",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
